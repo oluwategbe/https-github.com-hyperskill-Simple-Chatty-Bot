@@ -1,2 +1,2 @@
-# https//github.com/hyperskill/Simple-Chatty-Bot
+#SimpleChattyBot
 Simple chatty bot
